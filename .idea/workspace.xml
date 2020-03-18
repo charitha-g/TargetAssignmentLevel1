@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f94c8b1e-374d-4a70-8b72-84b0031bfa95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIRhn5gcx3M50hU1ToXyOezcQe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tgt.igniteplus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.decimaltobinary">
+    <configuration name="arithmeticExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.arithmeticExp" />
+      <module name="assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.binarySearch" />
+      <module name="assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimaltobinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.decimaltobinary" />
+      <module name="assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.linearSearch" />
+      <module name="assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.palindrome" />
+      <module name="assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.decimaltobinary" />
+        <item itemvalue="Application.palindrome" />
+        <item itemvalue="Application.arithmeticExp" />
+        <item itemvalue="Application.binarySearch" />
+        <item itemvalue="Application.linearSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f94c8b1e-374d-4a70-8b72-84b0031bfa95" name="Default Changelist" comment="" />
+      <created>1584524742536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584524742536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584524887108">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1584524887108" />
+    <state x="476" y="249" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584540243644">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="476" y="249" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1584540243644" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1584541612191">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1584541612191" />
+    <state width="1317" height="146" key="GridCell.Tab.0.bottom" timestamp="1584540470259">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="146" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
+    <state width="1317" height="146" key="GridCell.Tab.0.center" timestamp="1584540470259">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="146" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
+    <state width="1317" height="146" key="GridCell.Tab.0.left" timestamp="1584540470258">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="146" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584540470258" />
+    <state width="1317" height="146" key="GridCell.Tab.0.right" timestamp="1584540470259">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="146" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
+    <state x="0" y="0" width="736" height="728" key="find.popup" timestamp="1584524771384">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" width="736" height="728" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1584524771384" />
+  </component>
+</project>
