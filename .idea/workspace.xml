@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f94c8b1e-374d-4a70-8b72-84b0031bfa95" name="Default Changelist" comment="" />
+    <list default="true" id="f94c8b1e-374d-4a70-8b72-84b0031bfa95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/Xpowern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/arithmeticExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/armStrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/binarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/binarytodecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/decimaltobinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/linearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/numberinwords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/oddeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/patternQ1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/patternQ2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/primenumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/reversenumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/reversestring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/simpleinterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sumofeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sumofodd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/swap2numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/swap3numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/wholefraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tgt/igniteplus/sequenceQ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tgt/igniteplus/sequenceQ14.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +50,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZIRhn5gcx3M50hU1ToXyOezcQe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +62,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -29,7 +70,7 @@
       <recent name="com.tgt.igniteplus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.decimaltobinary">
+  <component name="RunManager" selected="Application.sequenceQ14">
     <configuration name="arithmeticExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.arithmeticExp" />
       <module name="assignment 1" />
@@ -51,13 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.linearSearch" />
-      <module name="assignment 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.palindrome" />
       <module name="assignment 1" />
@@ -65,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sequenceQ14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.sequenceQ14" />
+      <module name="assignment 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tgt.igniteplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sequenceQ14" />
         <item itemvalue="Application.decimaltobinary" />
         <item itemvalue="Application.palindrome" />
         <item itemvalue="Application.arithmeticExp" />
         <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.linearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -97,29 +144,33 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="476" y="249" width="407" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1584540243644" />
-    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1584541612191">
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1584542650752">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1584541612191" />
-    <state width="1317" height="146" key="GridCell.Tab.0.bottom" timestamp="1584540470259">
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1584542650752" />
+    <state width="1317" height="146" key="GridCell.Tab.0.bottom" timestamp="1584616411723">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="146" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
-    <state width="1317" height="146" key="GridCell.Tab.0.center" timestamp="1584540470259">
+    <state width="1317" height="146" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584616411723" />
+    <state width="1317" height="146" key="GridCell.Tab.0.center" timestamp="1584616411722">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="146" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
-    <state width="1317" height="146" key="GridCell.Tab.0.left" timestamp="1584540470258">
+    <state width="1317" height="146" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584616411721" />
+    <state width="1317" height="146" key="GridCell.Tab.0.left" timestamp="1584616411721">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="146" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584540470258" />
-    <state width="1317" height="146" key="GridCell.Tab.0.right" timestamp="1584540470259">
+    <state width="1317" height="146" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584616411721" />
+    <state width="1317" height="146" key="GridCell.Tab.0.right" timestamp="1584616411722">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="146" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584540470259" />
+    <state width="1317" height="146" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584616411722" />
     <state x="0" y="0" width="736" height="728" key="find.popup" timestamp="1584524771384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="0" y="0" width="736" height="728" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1584524771384" />
+    <state x="62" y="0" key="new project wizard" timestamp="1584545366241">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1584545366241" />
   </component>
 </project>
