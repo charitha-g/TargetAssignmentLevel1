@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94c8b1e-374d-4a70-8b72-84b0031bfa95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/Xpowern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/arithmeticExp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/armStrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/binarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/binarytodecimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/decimaltobinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/largest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/linearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/numberinwords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/oddeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/patternQ1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/patternQ2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/primenumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/reversenumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/reversestring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sequenceQ23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/simpleinterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sumofeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/sumofodd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/swap2numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/swap3numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assignment 1/wholefraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tgt/igniteplus/sequenceQ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tgt/igniteplus/sequenceQ14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,13 +130,17 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1317" height="146" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584616411722" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586190546509">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1586190546509" />
     <state x="0" y="0" width="736" height="728" key="find.popup" timestamp="1584524771384">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="0" y="0" width="736" height="728" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1584524771384" />
-    <state x="62" y="0" key="new project wizard" timestamp="1584545366241">
+    <state x="62" y="0" key="new project wizard" timestamp="1586408205635">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1584545366241" />
+    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1586408205635" />
   </component>
 </project>
